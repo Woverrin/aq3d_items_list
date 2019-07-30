@@ -4,7 +4,7 @@
 { "ID": "5", "Name": "Wristplates", "Type": "gloves", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
 { "ID": "6", "Name": "Warrior Gauntlets", "Type": "gloves", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
 { "ID": "8", "Name": "BloodKnight Armor", "Type": "amour", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
-{ "ID": "9", "Name": "Shadow Leather Boots", "Type": "boots", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
+{ "ID": "9", "Name": "Shadow Leather Boots", "Type": "boots", "Colour": "Brown", "2ndColour": "", "Availability": "Normal", "Gender": "", "url_m": "", "url_f": "Wov" }
 { "ID": "10", "Name": "BloodKnight Boots", "Type": "boots", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
 { "ID": "11", "Name": "BloodKnight Wristplates", "Type": "gloves", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
 { "ID": "12", "Name": "BloodKnight Vambraces", "Type": "gloves", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url_m": "", "url_f": "" }
