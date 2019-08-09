@@ -693,7 +693,7 @@
 { id: 965, name: 'Crystal Mining Pickaxe', type: 10, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 970, name: 'Furnace Hammer', type: 10, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 971, name: 'Heated Shoulderplates', type: 7, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
-{ id: 972, name: 'Gaudy Brimston Villager Clothing', type: 2, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
+{ id: 972, name: 'Gaudy Brimston Villager Clothing', type: 2, rarity: 2, colour: 'grey', colour2: 'green', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/604393417975398538/609182455261429771/gaudy-brimston-villager-clothing_1.PNG', url_f: '' },
 { id: 973, name: 'Villager\'s Sash', type: 3, rarity: 2, colour: 'red', colour2: 'grey', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/604209088154304522/609182772527104063/villagers-sash_1.PNG', url_f: '' },
 { id: 974, name: 'Hardened Shackles', type: 5, rarity: 2, colour: 'red', colour2: 'grey', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/604209149856972801/609511780237967464/hardened-shackles_1.PNG', url_f: '' },
 { id: 975, name: 'Malthas Hide Cape', type: 8, rarity: 3, colour: 'grey', colour2: 'yellow', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/607056790999400458/609511947234443275/malthas-hide-cape_2.PNG', url_f: '' },
