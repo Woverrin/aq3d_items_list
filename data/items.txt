@@ -581,7 +581,7 @@
 { id: 802, name: 'Pumice Pommel Mace', type: 10, rarity: 1, colour: 'grey', colour2: '', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/607056453479563284/608782624655278081/pumice-pommel-mace_1.PNG', url_f: '' },
 { id: 803, name: 'Charred Lance', type: 10, rarity: 1, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 804, name: 'Flameproof Wood', type: 10, rarity: 1, colour: 'brown', colour2: '', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/607056953839058981/608783206077956126/flameproof-wand_1.PNG', url_f: '' },
-{ id: 806, name: 'Furnace Knight Armor', type: 2, rarity: 3, colour: 'grey', colour2: 'brown', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/606669444428857354/609747384154456064/furnace-knight-armor_1.PNG', url_f: '' },
+{ id: 806, name: 'Furnace Knight Armor', type: 2, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 807, name: 'Furnace Knight Belt', type: 3, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 808, name: 'Furnace Knight Boots', type: 6, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 809, name: 'Furnace Knight Gloves', type: 5, rarity: 3, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
